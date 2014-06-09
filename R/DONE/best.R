@@ -1,7 +1,7 @@
 best <- function(state, outcome) {
         ## Read outcome data
         dataset <-read.csv("outcome-of-care-measures.csv", colClasses = "character")
-       
+        
         ## Check that state and outcome are valid
         State.List <- dataset[, "State"]
         Outcome.List <- list("heart attack", "heart failure", "pneumonia")
@@ -22,19 +22,12 @@ best <- function(state, outcome) {
         ## Return hospital name in that state with lowest 30-day death
         Hospital.List <- list()
         for(i in 1:nrow(dataset)) {
-                row <- data[i] # MAKE A LIST instead a normal variable
+                row <- data[i]
                 if(row == min(data)) {
                         Hospital.Name <- dataset[i, "Hospital.Name"]
                         Hospital.List <- append(Hospital.List, Hospital.Name)
                 }
         }        
-        #print(min(data))
-        #print(Hospital.Name)
         output <- sort(unlist(Hospital.List))
         return(output)
 }
-
-best("AL", "heart attack")
-best("TX", "heart attack")
-best("BB", "heart attack")
-best("NY", "hert attack")
