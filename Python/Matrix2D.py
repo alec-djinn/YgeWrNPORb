@@ -1,6 +1,8 @@
-# 2D matrix class!!
-# Python 2.7
-# by alec_djinn - 2014 
+## Simple 2D matrix class
+## Python 2.7
+## by alec_djinn - 2014
+
+
 class Matrix2D:
 	def __init__(self):
 		self.matrix = [] # each item is a row in the matrix

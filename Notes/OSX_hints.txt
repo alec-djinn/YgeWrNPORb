@@ -1,0 +1,37 @@
+# Tor
+	To have launchd start tor at login:
+    	ln -sfv /usr/local/opt/tor/*.plist ~/Library/LaunchAgents
+	Then to load tor now:
+    	launchctl load ~/Library/LaunchAgents/homebrew.mxcl.tor.plist
+    To reload tor after an upgrade:
+    	launchctl unload ~/Library/LaunchAgents/homebrew.mxcl.tor.plist
+   		launchctl load ~/Library/LaunchAgents/homebrew.mxcl.tor.plist
+
+# show/hide hidden files
+	defaults write com.apple.finder AppleShowAllFiles TRUE # or FALSE
+	killall Finder
+# update locate.database
+	sudo /usr/libexec/locate.updatedb
+
+# edit .bash_profile
+	open .bash_profile
+	sublime .bash_profile
+	vim .bash_profile
+	nano .bash_profile
+
+# PATH
+	/usr/local/bin
+
+# if problems with symlink (brew)
+sudo chown -R username /usr/local/lib
+
+
+# activate the "Open in Low Resolution" checkbox
+Make a backup copy of the application
+Open the application folder, then right click the app and choose "Show Package Contents"
+Edit Contents/info.plist
+Toward the bottom of the file, just before </dict>, add the following lines:
+<key>NSHighResolutionCapable</key>
+<string>True</string>
+Move the app package out of the applications folder. Then move it back in.
+The application may now allow a hacked, possibly glitchy retina mode.

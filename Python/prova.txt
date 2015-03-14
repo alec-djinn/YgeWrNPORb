@@ -1,0 +1,3 @@
+print("WoW!")
+print("Hello World!")
+print("Daje!")

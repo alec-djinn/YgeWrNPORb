@@ -1,3 +1,5 @@
+## 2048 game implementation
+
 '''
 2048 - by alec_djinn - Jun 2014
 '''

@@ -1,0 +1,592 @@
+zoom center, 10
+translate [3.75, -3.75, 0]
+ray 1000, 1000
+png tile_Virus_0.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_1.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_2.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_3.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_4.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_5.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_6.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_7.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_8.png
+translate [30.0, 0, 0]
+translate [0, 3.75, 0]
+ray 1000, 1000
+png tile_Virus_9.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_10.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_11.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_12.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_13.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_14.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_15.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_16.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_17.png
+translate [30.0, 0, 0]
+translate [0, 3.75, 0]
+ray 1000, 1000
+png tile_Virus_18.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_19.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_20.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_21.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_22.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_23.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_24.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_25.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_26.png
+translate [30.0, 0, 0]
+translate [0, 3.75, 0]
+ray 1000, 1000
+png tile_Virus_27.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_28.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_29.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_30.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_31.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_32.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_33.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_34.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_35.png
+translate [30.0, 0, 0]
+translate [0, 3.75, 0]
+ray 1000, 1000
+png tile_Virus_36.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_37.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_38.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_39.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_40.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_41.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_42.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_43.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_44.png
+translate [30.0, 0, 0]
+translate [0, 3.75, 0]
+ray 1000, 1000
+png tile_Virus_45.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_46.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_47.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_48.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_49.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_50.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_51.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_52.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_53.png
+translate [30.0, 0, 0]
+translate [0, 3.75, 0]
+ray 1000, 1000
+png tile_Virus_54.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_55.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_56.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_57.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_58.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_59.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_60.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_61.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_62.png
+translate [30.0, 0, 0]
+translate [0, 3.75, 0]
+ray 1000, 1000
+png tile_Virus_63.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_64.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_65.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_66.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_67.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_68.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_69.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_70.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_71.png
+translate [30.0, 0, 0]
+translate [0, 3.75, 0]
+ray 1000, 1000
+png tile_Virus_72.png
+zoom center, 10
+translate [3.75, -3.75, 0]
+ray 1000, 1000
+png tile_Virus_0.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_1.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_2.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_3.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_4.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_5.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_6.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_7.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_8.png
+translate [30.0, 0, 0]
+translate [0, 3.75, 0]
+ray 1000, 1000
+png tile_Virus_9.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_10.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_11.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_12.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_13.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_14.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_15.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_16.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_17.png
+translate [30.0, 0, 0]
+translate [0, 3.75, 0]
+ray 1000, 1000
+png tile_Virus_18.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_19.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_20.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_21.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_22.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_23.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_24.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_25.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_26.png
+translate [30.0, 0, 0]
+translate [0, 3.75, 0]
+ray 1000, 1000
+png tile_Virus_27.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_28.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_29.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_30.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_31.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_32.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_33.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_34.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_35.png
+translate [30.0, 0, 0]
+translate [0, 3.75, 0]
+ray 1000, 1000
+png tile_Virus_36.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_37.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_38.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_39.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_40.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_41.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_42.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_43.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_44.png
+translate [30.0, 0, 0]
+translate [0, 3.75, 0]
+ray 1000, 1000
+png tile_Virus_45.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_46.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_47.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_48.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_49.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_50.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_51.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_52.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_53.png
+translate [30.0, 0, 0]
+translate [0, 3.75, 0]
+ray 1000, 1000
+png tile_Virus_54.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_55.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_56.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_57.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_58.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_59.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_60.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_61.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_62.png
+translate [30.0, 0, 0]
+translate [0, 3.75, 0]
+ray 1000, 1000
+png tile_Virus_63.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_64.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_65.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_66.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_67.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_68.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_69.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_70.png
+translate [-3.75, 0, 0]
+ray 1000, 1000
+png tile_Virus_71.png
+translate [30.0, 0, 0]
+translate [0, 3.75, 0]
+ray 1000, 1000
+png tile_Virus_72.png
+zoom center, 10
+translate [6.666666666666667, -6.666666666666667, 0]
+ray 800, 800
+png tile_Virus_0.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_1.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_2.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_3.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_4.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_5.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_6.png
+translate [40.0, 0, 0]
+translate [0, 6.666666666666667, 0]
+ray 800, 800
+png tile_Virus_7.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_8.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_9.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_10.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_11.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_12.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_13.png
+translate [40.0, 0, 0]
+translate [0, 6.666666666666667, 0]
+ray 800, 800
+png tile_Virus_14.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_15.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_16.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_17.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_18.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_19.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_20.png
+translate [40.0, 0, 0]
+translate [0, 6.666666666666667, 0]
+ray 800, 800
+png tile_Virus_21.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_22.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_23.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_24.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_25.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_26.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_27.png
+translate [40.0, 0, 0]
+translate [0, 6.666666666666667, 0]
+ray 800, 800
+png tile_Virus_28.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_29.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_30.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_31.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_32.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_33.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_34.png
+translate [40.0, 0, 0]
+translate [0, 6.666666666666667, 0]
+ray 800, 800
+png tile_Virus_35.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_36.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_37.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_38.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_39.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_40.png
+translate [-6.666666666666667, 0, 0]
+ray 800, 800
+png tile_Virus_41.png
+translate [40.0, 0, 0]
+translate [0, 6.666666666666667, 0]
+ray 800, 800
+png tile_Virus_42.png
