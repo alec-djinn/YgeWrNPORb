@@ -35,3 +35,10 @@ Toward the bottom of the file, just before </dict>, add the following lines:
 <string>True</string>
 Move the app package out of the applications folder. Then move it back in.
 The application may now allow a hacked, possibly glitchy retina mode.
+
+# Upgrade all pip packages
+pip3 freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip install -U
+pip2 freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 pip install -U
+or, only in Python2.7
+$ pip install pip-tools
+$ pip-review --interactive
