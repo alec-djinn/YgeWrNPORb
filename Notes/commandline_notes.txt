@@ -1,0 +1,21 @@
+wc #word count	wc -l	#line count
+uniq	sort -u	#select unique lines
+uniq -c 	grep -c 	#count repetition
+| #pipe
+cut -f1	#select column 1
+cat	#concatenate files or inputs
+more	less	head	tail	#show file content
+tar	gzip	bzip2	#archive and compression tools
+grep 'word'	#return the lines containg 'word' in a file
+grep -v 'word' #return the lines that DO NOT contain 'word'
+comm 	diff 	#show data in common / differences among files
+comm -1 -2 	#return all the common data among two files ignoring columns 1 and 2
+cp mv mkdir remove etc... #basic stuff
+
+samtools view -H athal_wu_0_A.bam # view the header only
+samtools view athal_wu_0_A.bam |cut -f6|grep 'D'|wc -l # count deletions
+samtools view athal_wu_0_A.bam |cut -f7|grep '='|wc -l # count same chromosome
+samtools view athal_wu_0_A.bam |cut -f7|grep '*'|wc -l # count unmapped
+samtools index athal_wu_0_A.bam # to index a bam file, the file should be sorted already
+samtools view athal_wu_0_A.bam Chr3:11777000-11794000 # show only the specified region, the file must be sorted already
+bedtools intersect -wo -a athal_wu_0_A_annot.gtf -b athal_wu_0_A.bam|cut -f16|awk '$1>=10'|wc -l # how many overlap are longer than 10 bases

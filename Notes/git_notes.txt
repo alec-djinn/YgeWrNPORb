@@ -1,0 +1,5 @@
+rhc app create webapp python-3.3 --from-code=https://github.com/alec-djinn/aMoF.git
+
+git add .
+git commit -m 'My changes'
+git push
